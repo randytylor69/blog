@@ -9,3 +9,5 @@
 06-30 | [End of June](https://github.com/randytylor69/blog/blob/main/posts/6.%20End%20of%20June.md)
 
 07-20 | [July](https://github.com/randytylor69/blog/blob/main/posts/8.%20July.md)
+
+08-22 | [August](https://github.com/randytylor69/blog/blob/main/posts/10-19/11.August.md)
